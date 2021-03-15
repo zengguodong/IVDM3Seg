@@ -18,3 +18,5 @@ docker cp $CONTAINERID:/output [RESULT-TEAM]
 docker stop $CONTAINERID
 docker rm -v $CONTAINERID
 ```
+
+
